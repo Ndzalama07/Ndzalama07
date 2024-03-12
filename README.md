@@ -41,7 +41,7 @@ I recently completed my studies at WETHINKCODE, earning a certificate in Informa
 
 ## Connect with Me
 
-- 📫 Connect on [LinkedIn](www.linkedin.com/in/ndzalama-mokoena).
+- 📫 Connect on [LinkedIn](https://www.linkedin.com/in/ndzalama-mokoena).
   - 🌐 Explore more on [Personal Website]().
 
 Feel free to explore my repositories, and let's connect! 😊
